@@ -48,4 +48,4 @@
 | 25   | [juyoung07](https://github.com/juyoung07)           | Java, Spring, Node.js, Kotlin  | 유명한 앱을 개발하는 개발자가 됩겁니다. 다들 꿈을 이루길! |
 | 26   | [pjh38](https://github.com/pjh38)                   | python                         | 좋은 강의 감사합니다.       |
 | 27   | [hwanghb](https://github.com/hwanghb)               | Python, C++                    | 좋은 강의 너무 감사합니다! |
-| 28   | [ldw0101](https://github.com/ldw0101)                 | UAM AI software| 가즈아!    |
+| 28  | [ldw0101](https://github.com/ldw0101)         | python         | 감사합니다| 
